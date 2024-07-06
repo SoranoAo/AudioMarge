@@ -1,0 +1,8 @@
+{
+    "input_directory": "input_wav",
+    "output_directory": "output_wav",
+    "silence_between_files": 1000,
+    "silence_at_start": 500,
+    "silence_at_end": 1100,
+    "file_list": "file_list.txt"
+}
